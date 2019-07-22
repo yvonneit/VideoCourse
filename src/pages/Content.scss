@@ -1,0 +1,22 @@
+.wrapper {
+  margin-top: 20px;
+  .course {
+    width: 300px;
+    padding: 30px;
+    display: inline-block;
+    border: 1px solid #ccc;
+    margin-right: 30px;
+    margin-bottom: 20px;
+    cursor: pointer;
+
+    .subtitle {
+      width: 100px;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+    .button {
+      margin-top: 20px;
+    }
+  }
+}

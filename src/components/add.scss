@@ -1,0 +1,24 @@
+.add-wrapper {
+  width: 300px;
+  height: 200px;
+  border: 1px solid #ccc;
+  margin-right: 30px;
+  margin-bottom: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+
+  .add-course {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .add-image {
+    width: 50px;
+    height: 50px;
+    margin-bottom: 15px;
+  }
+}

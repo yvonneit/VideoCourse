@@ -1,0 +1,34 @@
+{
+  "name": "ts-HelloWorld",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@babel/polyfill": "^7.4.4",
+    "@reach/router": "^1.2.1",
+    "@types/reach__router": "^1.2.4",
+    "@types/react-dom": "^16.8.4",
+    "antd": "^3.20.3",
+    "axios": "^0.19.0",
+    "babel-polyfill": "^6.26.0",
+    "react": "15.x || 16.x || 16.4.0-alpha.0911da3",
+    "react-dom": "15.x || 16.x || 16.4.0-alpha.0911da3",
+    "sass": "^1.22.5",
+    "utils": "^0.3.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.0.0-0",
+    "@babel/plugin-transform-runtime": "^7.5.5",
+    "@babel/preset-env": "^7.5.5",
+    "@babel/preset-react": "^7.0.0",
+    "babel-core": "^6.26.3",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^6.24.1",
+    "parcel-bundler": "^1.12.3",
+    "typescript": "^3.5.3"
+  },
+  "scripts": {
+    "dev": "parcel src/index.html",
+    "build": "parcel build src/index.html"
+  }
+}

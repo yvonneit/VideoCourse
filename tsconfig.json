@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "lib": ["es2017", "dom"],
+    "baseUrl": "./",
+    "module": "esnext",
+    "moduleResolution": "node",
+    "jsx": "react",
+    "target": "es6",
+    "noImplicitAny": true,
+    "allowSyntheticDefaultImports": true
+  },
+  "exclude": ["node_modules"]
+}
