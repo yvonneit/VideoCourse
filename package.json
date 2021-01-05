@@ -9,7 +9,7 @@
     "@types/reach__router": "^1.2.4",
     "@types/react-dom": "^16.8.4",
     "antd": "^3.20.3",
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "babel-polyfill": "^6.26.0",
     "react": "15.x || 16.x || 16.4.0-alpha.0911da3",
     "react-dom": "15.x || 16.x || 16.4.0-alpha.0911da3",
